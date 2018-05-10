@@ -1,0 +1,13 @@
+variable,data_set,type,variable
+PassengerId,observations,int64,
+Survived,observations,int64,
+Pclass,observations,int64,
+Name,observations,object,
+Sex,observations,object,
+Age,observations,float64,
+SibSp,observations,int64,
+Parch,observations,int64,
+Ticket,observations,object,
+Fare,observations,float64,
+Cabin,observations,object,
+Embarked,observations,object,
